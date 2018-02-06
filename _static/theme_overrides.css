@@ -1,0 +1,78 @@
+.wy-side-nav-search {
+   background-color: #751217;
+}
+
+body span.caption-text {
+	color: #CD2626;
+}
+
+body span.red {
+	color: #ac2b31;
+	font-weight: 700;
+}
+
+
+body span.und {
+	color: #4074c8;
+	text-decoration: underline;
+	text-decoration-color: #4074c8;
+}
+
+body span.sample {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+
+}
+
+body span.sampleb {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+}
+
+body span.sampleu {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	text-decoration: underline;
+	text-decoration-color: #4074c8;
+	color: #4074c8;
+
+}
+
+body span.samplebi {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+}
+
+body span.samplei {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 400;
+
+}
+
+body span.sampleiblk {
+	display: inline-block;
+	border-bottom: 1px solid black;
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+
+}

@@ -166,14 +166,25 @@ If there is only one affiliation text for all authors, then each author name mus
 
 3.7. The format of affiliation number must be as follows:
 
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif                          |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Vertical-align            | super                               |
++---------------------------+-------------------------------------+
+| Font color                | #BD1B3C                             |
++---------------------------+-------------------------------------+
 
-
-
-
-3.6. Check that all affiliation numbers of the author are formatted in superscript and colored in red. See below.
 
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
+
+
 
 .. Note::
 	
