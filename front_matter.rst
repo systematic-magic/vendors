@@ -64,9 +64,9 @@
 2.4. The format of title must be as follows:
 
 +---------------------------+-------------------------------------+
-| Characteristics           | Value 	                          |
+| Characteristics           | Value.                              |
 +===========================+=====================================+
-| Font family		        | Arial, Helvetica, sans-serif        |
+| Font family               | Arial, Helvetica, sans-serif        |
 +---------------------------+-------------------------------------+
 | Font size                 | 1.2em                               |
 +---------------------------+-------------------------------------+
@@ -84,9 +84,9 @@ Supplementary Files link is required only when article has supplementary files.
 2.5. The format of the links should be as follows:
 
 +---------------------------+-------------------------------------+
-| Characteristics           | Value 	                          |
+| Characteristics           | Value                               |
 +===========================+=====================================+
-| Font family		        | Arial, Helvetica, sans-serif        |
+| Font family               | Arial, Helvetica, sans-serif        |
 +---------------------------+-------------------------------------+
 | Font size                 | 13px                                |
 +---------------------------+-------------------------------------+
