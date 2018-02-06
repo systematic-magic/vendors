@@ -4,7 +4,7 @@
 1.1. The following typographical characters presented anywhere in the article should be encoded in HTML notation:
 
 +---------------------------+---------------+-----------------------+
-|    Character(s)           |    Literal(s) |    HTML value(s)   |
+|    Character(s)           |    Literal(s) |    HTML value(s)      |
 +===========================+===============+=======================+
 |    Cent (currency)        |    ¢          |    &#162;             |
 +---------------------------+---------------+-----------------------+
