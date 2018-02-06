@@ -54,4 +54,49 @@
 +---------------------------+---------------+-----------------------+
 
 
+2. Article Title
+----------------
+
+2.1. The title should be in :ref:`sentence case<sentence_case>`.
+
+2.2. There should be no period (.) at the end of the title. Exclamation (!) and question (?) marks are allowed.
+
+2.4. The format of title must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value 	                          |
++===========================+=====================================+
+| Font family		        | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 1.2em                               |
++---------------------------+-------------------------------------+
+| Font weight               | 700                                 |
++---------------------------+-------------------------------------+
+| Font color                | #ac2b31                             |
++---------------------------+-------------------------------------+
+
+2.3. The following Latin terms must be written in italics: *in vivo, in vitro, in utero, in situ, via*. 
+All other words/terms formatted by author in italics must be preserved in italics.
+
+2.4. There should be PDF, HTML, Supplementary Files, Order a Reprint links below the title. Links should be hyperlinked.
+Supplementary Files link is required only when article has supplementary files.
+
+2.5. The format of the links should be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value 	                          |
++===========================+=====================================+
+| Font family		        | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 13px                                |
++---------------------------+-------------------------------------+
+| Link color                | #4074c8                             |
++---------------------------+-------------------------------------+
+| Link visited color        | #294a80                             |
++---------------------------+-------------------------------------+
+
+
+
+
+
 
