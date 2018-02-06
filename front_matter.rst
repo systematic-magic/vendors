@@ -1,7 +1,7 @@
 1. Typography
 -------------
 
-1.1. The following typographical characters presented anywhere in the article should be encoded in HTML notation:
+1.1. The following typographical characters presented anywhere in the article must be encoded in HTML notation:
 
 +---------------------------+---------------+-----------------------+
 |    Character(s)           |    Literal(s) |    HTML value(s)      |
@@ -57,9 +57,9 @@
 2. Article Title
 ----------------
 
-2.1. The title should be in :ref:`sentence case<sentence_case>`.
+2.1. The title must be in :ref:`sentence case<sentence_case>`.
 
-2.2. There should be no period (.) at the end of the title. Exclamation (!) and question (?) marks are allowed.
+2.2. There must be no period (.) at the end of the title. Exclamation (!) and question (?) marks are allowed.
 
 2.4. The format of title must be as follows:
 
@@ -81,7 +81,7 @@ All other words/terms formatted by author in italics must be preserved in italic
 2.4. There must be PDF, HTML, Supplementary Files, Order a Reprint links below the title. Links must be hyperlinked.
 Supplementary Files link is required only when article has supplementary files. Links must be separated from each other by space and pipe (|). See screenshot below for details.
 
-2.5. The format of the links should be as follows:
+2.5. The format of the links must be as follows:
 
 +---------------------------+-------------------------------------+
 | Characteristics           | Value                               |
@@ -98,6 +98,87 @@ Supplementary Files link is required only when article has supplementary files. 
 .. image:: /_static/title_format.png
    :alt: Title format
    :scale: 60%																								
+
+
+3. Author names
+---------------
+
+3.1. Author names in author list must be separated by commas (,). Last two author names in the list must be separated by "and" instead of a comma (,). No other separators allowed.
+
+3.2. There must be **no** period (or any other punctuation mark) after the last author name.
+
+.. image:: /_static/html_author_list_separ.png
+   :alt: Author list separators
+   :scale: 60%
+
+
+3.3. Author names must comply to the following standards: 
+
+	+  :sample:`FirstName LastName`
+	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; up to 4 letters)
+	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; up to 4 letters)
+	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
+	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
+
+Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
+
+	- Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
+	- Last name related prepositions: :sample:`Van den Brandt, van der Ent`
+	- Suffixes: :sample:`Williams 3rd, Rowland Jr`
+	- Prefixes: :sample:`McCann, O'Kelly`
+	- Mononym: :sample:`Govindjee`
+
+
+.. Important::
+	
+	LastName **cannot** be presented as initial (even if authors insist on this). LastName must always be presented in full.
+
+
+If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+
+3.4. Format of author names must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif                          |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+
+
+3.5. Each author name must have at least 1 affiliation number (i.e. number linked to the affiliation text). One author name can have a few affiliation numbers.
+
+.. image:: /_static/html_aff_texts_and_authors.png
+	:scale: 60%
+	:alt: Affiliation texts and authors
+
+If there is only one affiliation text for all authors, then each author name must have "1" next to it. 
+
+.. image:: /_static/html_one_affiliation_all_auth.png
+   :alt: One affiliation for all authors
+   :scale: 60%
+
+3.6. Affiliation numbers for one author must be separated by commas (,). No other separator is allowed.
+
+
+3.7. The format of affiliation number must be as follows:
+
+
+
+
+
+3.6. Check that all affiliation numbers of the author are formatted in superscript and colored in red. See below.
+
+.. image:: /_static/html_affiliation_numbers.png
+   :alt: Affiliation Numbers
+
+.. Note::
+	
+	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
+	:ref:`Author Notes checks<author_notes>` can be found below.
 
 
 
