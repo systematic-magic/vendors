@@ -78,8 +78,8 @@
 2.3. The following Latin terms must be written in italics: *in vivo, in vitro, in utero, in situ, via*. 
 All other words/terms formatted by author in italics must be preserved in italics.
 
-2.4. There should be PDF, HTML, Supplementary Files, Order a Reprint links below the title. Links should be hyperlinked.
-Supplementary Files link is required only when article has supplementary files.
+2.4. There must be PDF, HTML, Supplementary Files, Order a Reprint links below the title. Links must be hyperlinked.
+Supplementary Files link is required only when article has supplementary files. Links must be separated from each other by space and pipe (|). See screenshot below for details.
 
 2.5. The format of the links should be as follows:
 
@@ -95,7 +95,9 @@ Supplementary Files link is required only when article has supplementary files.
 | Link visited color        | #294a80                             |
 +---------------------------+-------------------------------------+
 
-
+.. image:: /_static/title_format.png
+   :alt: Title format
+   :scale: 60%																								
 
 
 
