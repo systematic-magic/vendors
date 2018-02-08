@@ -161,17 +161,35 @@ If there is only one affiliation text for all authors, then each author name mus
    :alt: One affiliation for all authors
    :scale: 60%
 
-3.6. Affiliation numbers for one author must be separated by commas (,). No other separator is allowed.
 
+3.6. Author name must have "author note" symbol (i.e. symbol linked to author note) together with affiliation number, if article contains author note. The following symbols are allowed as author note symbol:
 
-3.7. The format of affiliation number must be as follows:
++===========================+===============+=======================+
+|    Priority               |    Symbol     |    HTML value(s)      |
++===========================+===============+=======================+
+|    1                      |    *          |    &#42;              |
++---------------------------+---------------+-----------------------+
+|    2                      |    **         |    &#42;&#42;         |
++---------------------------+---------------+-----------------------+
+|    3                      |    ***        |    &#42;&#42;&#42;    |
++---------------------------+---------------+-----------------------+
+|    4                      |    #          |    &#35;              |
++---------------------------+---------------+-----------------------+
+|    5                      |    †          |    &#8224;            |
++---------------------------+---------------+-----------------------+
+
+3.7. The default author note symbol is *. If there are more than one author note, then symbols must be used in accordance with the priority spcified in the table above (i.e. first author note should be denoted by *, second - by **, third - by *** etc.)
+
+3.8. Affiliation numbers and author note symbols for one author must be separated by commas (,). No other separator is allowed.
+
+3.9. The format of affiliation number and/or author note symbol must be as follows:
 
 +---------------------------+-------------------------------------+
 | Characteristics           | Value                               |
 +===========================+=====================================+
 | Font family               | Sans-serif                          |
 +---------------------------+-------------------------------------+
-| Font size                 | 11px                                |
+| Font size                 | 10px                                |
 +---------------------------+-------------------------------------+
 | Font weight               | bold                                |
 +---------------------------+-------------------------------------+
@@ -183,14 +201,6 @@ If there is only one affiliation text for all authors, then each author name mus
 
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
-
-
-
-.. Note::
-	
-	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
-	:ref:`Author Notes checks<author_notes>` can be found below.
-
 
 
 
