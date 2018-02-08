@@ -167,18 +167,18 @@ If there is only one affiliation text for all authors, then each author name mus
 +===========================+===============+=======================+
 |    Priority               |    Symbol     |    HTML value(s)      |
 +===========================+===============+=======================+
-|    1                      |    *          |    &#42;              |
+|    1                      |    \*         |    &#42;              |
 +---------------------------+---------------+-----------------------+
-|    2                      |    **         |    &#42;&#42;         |
+|    2                      |   \*\*        |    &#42;&#42;         |
 +---------------------------+---------------+-----------------------+
-|    3                      |    ***        |    &#42;&#42;&#42;    |
+|    3                      |    \*\*\*     |    &#42;&#42;&#42;    |
 +---------------------------+---------------+-----------------------+
 |    4                      |    #          |    &#35;              |
 +---------------------------+---------------+-----------------------+
 |    5                      |    †          |    &#8224;            |
 +---------------------------+---------------+-----------------------+
 
-3.7. The default author note symbol is *. If there are more than one author note, then symbols must be used in accordance with the priority spcified in the table above (i.e. first author note should be denoted by *, second - by **, third - by *** etc.)
+3.7. The default author note symbol is \*. If there are more than one author note, then symbols must be used in accordance with the priority spcified in the table above (i.e. first author note should be denoted by \*, second - by \*\*, third - by \*\*\* etc.)
 
 3.8. Affiliation numbers and author note symbols for one author must be separated by commas (,). No other separator is allowed.
 
