@@ -165,7 +165,7 @@ If there is only one affiliation text for all authors, then each author name mus
 3.6. Author name must have "author note" symbol (i.e. symbol linked to author note) together with affiliation number, if article contains author note. The following symbols are allowed as author note symbol:
 
 +---------------------------+---------------+-----------------------+
-|    Priority.              |    Symbol     |    HTML value(s)      |
+|    Priority               |    Symbol     |    HTML value(s)      |
 +===========================+===============+=======================+
 |    1                      |    \*         |    &#42;              |
 +---------------------------+---------------+-----------------------+
