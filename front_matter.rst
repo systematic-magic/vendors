@@ -319,7 +319,7 @@ In case you find several affiliation texts for one text number, please contact c
 +---------------------------+-------------------------------------+
 | Characteristics           | Value                               |
 +===========================+=====================================+
-| Font family               | Sans-serif      					  |
+| Font family               | Sans-serif                          |
 +---------------------------+-------------------------------------+
 | Font size                 | 12px                                |
 +---------------------------+-------------------------------------+
@@ -362,3 +362,173 @@ In case you find several affiliation texts for one text number, please contact c
 	|	:sample:`Author Name, email:` :und:`emailone@address.com`, :und:`emailtwo@address.com`
 
 5.9. Email address must be hyperlinked.
+
+
+
+6. Keywords
+-----------
+
+6.1. Keywords section must have a title “Keywords:”. It must start with capital letter and be followed by colon (:).
+
+6.2. The format of "Keywords:" title must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif                          |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font color                | #777                                |
++---------------------------+-------------------------------------+
+
+6.3. There can be only one keywords line in Keywords section. The format of keywords line must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif    					  |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | italic                              |
++---------------------------+-------------------------------------+
+| Font color                | #000                                |
++---------------------------+-------------------------------------+
+
+
+6.4. Keywords must be written in lower case, unless proper nouns or scientific terms. 
+
+6.5. Keywords must be separated by semicolons (;).
+	
+	.. image:: /_static/html_keywords.png
+   		:alt: Keywords
+		:scale: 60%
+
+
+6.6. Article must have at least 1 and not more than 5 keywords.
+
+6.7. There must be no punctuation marks at the end of keywords line.
+
+
+
+7. Abbreviations
+----------------
+
+7.1. Abbreviations section must have a title "Abbreviations:". It must start with capital letter and be followed by colon (:).
+
+7.2. The format of "Abbreviations:" title must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif                          |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font color                | #777                                |
++---------------------------+-------------------------------------+
+
+7.3. There can be only one keywords line in Keywords section. The format of keywords line must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif    					  |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | italic                              |
++---------------------------+-------------------------------------+
+| Font color                | #000                                |
++---------------------------+-------------------------------------+
+
+
+7.2. The format of the abbreviations line must be as follows:
+
+	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
+	| or
+	|	:sample:`expanded text: ABRVTN; expanded text: ABRVTN`
+
+
+7.3. Abbreviation part must be written in all CAPS and expanded part - in lower case letters (except for proper nouns).
+
+7.4. Abbreviation part must be separated from expanded part by a colon (:). No other separators allowed.
+
+7.5. Abbreviation pairs (i.e. abbreviation and corresponding expanded text) must be separated from each other by semicolons (;). No other separators allowed.
+
+
+7.6. There must be no punctuation marks at the end of abbreviations line.
+
+
+.. image:: /_static/html_abbreviations.png
+	:alt: Keywords
+	:scale: 60%
+
+
+7.7. There must be NOT more than 5 abbreviation pairs. If there are more than 5 pairs, then move all abbreviations to the article text as an "Abbreviations" section.
+
+
+8. Dates
+--------
+
+8.1. Dates sections must have titles “Received:”, “Accepted:”, “Published:”. They must start with capital letter and be followed by colon (:).
+
+8.2. The format of “Received:”, “Accepted:”, “Published:” titles must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif                          |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font color                | #777                                |
++---------------------------+-------------------------------------+
+
+8.3. There can be only one date line for each section. The format of date line must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif    					  |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | italic                              |
++---------------------------+-------------------------------------+
+| Font color                | #000                                |
++---------------------------+-------------------------------------+
+
+8.4. Date line must have the following format:
+
+		:sample:`Month Day, Year`
+
+8.5. Month must be spelled out, while Day and Year must be presented as digits. Note that single Day digit should be preceded by 0 (zero).
+
+	| 	`Example:`
+	|	June 02, 2017
+	| 	August 29, 2016
+ 
+ 8.6. There must be a comma (,) between Day and Year.
+
+ 	.. image:: /_static/html_dates.png
+   		:alt: Dates format
+   		:scale: 45%
+
+ 8.7. Received date must be older than Accepted date, and Accepted date must be older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
+
+
+
