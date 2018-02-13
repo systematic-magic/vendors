@@ -217,6 +217,11 @@ In case you find several affiliation texts for one text number, please contact c
 
 4.2. Each author note text must be denoted by separate symbol (see table in point 3.6 for the details regarding symbols).
 
+.. image:: /_static/html_author_notes.png
+   	:alt: Author Notes
+	:scale: 45%
+
+
 4.3. The format of affiliation number and/or author note symbol must be as follows:
 
 +---------------------------+-------------------------------------+
