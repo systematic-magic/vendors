@@ -307,3 +307,58 @@ In case you find several affiliation texts for one text number, please contact c
 
 
 4.9. There must be no punctuation marks at the end of affiliation text and/or author note text.
+
+
+5. Correspondence
+-----------------
+
+5.1. Correspondence section must have a title “Correspondence to:”. It must start with capital letter and be followed by colon (:).
+
+5.2. The format of "Correspondence to:" title must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif      					  |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font color                | #777                                |
++---------------------------+-------------------------------------+
+
+
+5.3. There can be one of more correspondence lines Correspondence section. The format of correspondence line must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Courier New    					  |
++---------------------------+-------------------------------------+
+| Font size                 | 0.85em                              |
++---------------------------+-------------------------------------+
+| Font weight               | normal                              |
++---------------------------+-------------------------------------+
+| Font color                | #333                                |
++---------------------------+-------------------------------------+
+
+
+5.4. Name of author in correspondence line must fully match name in author list (it must be exact match, i.e. middle name initials must also match, if present).
+
+5.5. Author name must NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
+
+5.6. Correspondence line must consist of the following elements in the following order:
+
+	|	:sample:`Author Name, email:` :und:`email@address.com`
+
+5.7. There must be no commas (,) or "or" or other separators between several correspondence lines:
+
+	|	:sample:`Author Name One, email:` :und:`emailone@address.com` 
+	|	:sample:`Author Name Two, email:` :und:`emailtwo@address.com`
+
+5.8. Email addresses must be separated by a comma, if one author has a few email addresses:
+
+	|	:sample:`Author Name, email:` :und:`emailone@address.com`, :und:`emailtwo@address.com`
+
+5.9. Email address must be hyperlinked.
