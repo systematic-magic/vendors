@@ -207,12 +207,35 @@ If there is only one affiliation text for all authors, then each author name mus
 4. Affiliation text
 -------------------
 
-4.1. Each affiliation must contain separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affiliation texts grouped together. This must be corrected. As a rule of thumb: one affiliation text should have one number.
+4.1. Each affiliation must be denoted by separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affiliation texts grouped together. This must be corrected. As a rule of thumb: one affiliation text should have one number.
 
 .. image:: /_static/html_2_texts_1_number.png
    :alt: One affiliation for all authors
    :scale: 55%
 
+In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
+
+4.2. Each author note text must be denoted by separate symbol (see table in point 3.6 for the details regarding symbols).
+
+4.3. The format of affiliation number and/or author note symbol must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Sans-serif                          |
++---------------------------+-------------------------------------+
+| Font size                 | 10px                                |
++---------------------------+-------------------------------------+
+| Font weight               | normal                              |
++---------------------------+-------------------------------------+
+| Vertical-align            | super                               |
++---------------------------+-------------------------------------+
+| Font color                | #BD1B3C                             |
++---------------------------+-------------------------------------+
 
 
+4.4. There must be no separators between affiliation text number and affiliation text itself (space is allowed). 
+
+.. image:: /_static/html_affiliation_numbers_new.png
+   :alt: Affiliation Numbers
 
