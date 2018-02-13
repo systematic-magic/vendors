@@ -1,3 +1,9 @@
+
+.. role:: und
+
+.. role:: sample
+
+
 1. Typography
 -------------
 
@@ -531,4 +537,7 @@ In case you find several affiliation texts for one text number, please contact c
  8.7. Received date must be older than Accepted date, and Accepted date must be older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
 
+.. |br| raw:: html
+
+   <br />
 
