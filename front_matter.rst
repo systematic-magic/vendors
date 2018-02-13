@@ -167,13 +167,13 @@ If there is only one affiliation text for all authors, then each author name mus
 +---------------------------+---------------+-----------------------+
 |    Priority               |    Symbol     |    HTML value(s)      |
 +===========================+===============+=======================+
-|    1                      |    \*         |    &#42;              |
+|    1                      |    \*         |         \*            |
 +---------------------------+---------------+-----------------------+
-|    2                      |    \*\*       |    &#42;&#42;         |
+|    2                      |    \*\*       |         \*\*          |
 +---------------------------+---------------+-----------------------+
-|    3                      |    \*\*\*     |    &#42;&#42;&#42;    |
+|    3                      |    \*\*\*     |         \*\*\*        |
 +---------------------------+---------------+-----------------------+
-|    4                      |    #          |    &#35;              |
+|    4                      |    #          |         #             |
 +---------------------------+---------------+-----------------------+
 |    5                      |    †          |    &#8224;            |
 +---------------------------+---------------+-----------------------+
@@ -181,7 +181,7 @@ If there is only one affiliation text for all authors, then each author name mus
 
 3.7. The default author note symbol is \*. If there are more than one author note, then symbols must be used in accordance with the priority spcified in the table above (i.e. first author note should be denoted by \*, second - by \*\*, third - by \*\*\* etc.)
 
-3.8. Affiliation numbers and author note symbols for one author must be separated by commas (,). No other separator is allowed.
+3.8. Affiliation numbers and author note symbols must be separated by commas (,). No other separator is allowed.
 
 3.9. The format of affiliation number and/or author note symbol must be as follows:
 
@@ -202,6 +202,17 @@ If there is only one affiliation text for all authors, then each author name mus
 
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
+
+
+4. Affiliation text
+-------------------
+
+4.1. Each affiliation must contain separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affiliation texts grouped together. This must be corrected. As a rule of thumb: one affiliation text should have one number.
+
+.. image:: /_static/html_2_texts_1_number.png
+   :alt: One affiliation for all authors
+   :scale: 55%
+
 
 
 
