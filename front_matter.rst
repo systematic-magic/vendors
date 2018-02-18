@@ -132,7 +132,7 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
-3.4. Author titles and degrees (Dr, Prof, MD, PhD etc) are not allowed.
+3.4. Author titles and degrees (e.g. Dr., Ph.D., M.D., etc.) are not allowed.
 
 
 3.5. Format of author names must be as follows:
@@ -455,9 +455,9 @@ In case you find several affiliation texts for one text number, please contact c
 
 7.2. The format of the abbreviations line must be as follows:
 
-	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
-	| or
-	|	:sample:`expanded text: ABRVTN; expanded text: ABRVTN`
+		:sample:`ABRVTN: expanded text; ABRVTN: expanded text` |br|
+	 or |br|
+		:sample:`expanded text: ABRVTN; expanded text: ABRVTN`
 
 
 7.3. Abbreviation part must be written in all CAPS and expanded part - in lower case letters (except for proper nouns).
@@ -475,7 +475,7 @@ In case you find several affiliation texts for one text number, please contact c
 	:scale: 60%
 
 
-7.7. There must be NOT more than 5 abbreviation pairs. If there are more than 5 pairs, then move all abbreviations to the article text as an "Abbreviations" section.
+7.7. There must be NO more than 5 abbreviation pairs. If there are more than 5 pairs, then move all abbreviations to the article text as an "Abbreviations" section.
 
 
 8. Dates
