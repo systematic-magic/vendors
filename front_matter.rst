@@ -12,10 +12,6 @@
 +---------------------------+---------------+-----------------------+
 |    Character(s)           |    Literal(s) |    HTML value(s)      |
 +===========================+===============+=======================+
-|    Cent (currency)        |    ¢          |    &#162;             |
-+---------------------------+---------------+-----------------------+
-|    Pound (currency)       |    £          |    &#163;             |
-+---------------------------+---------------+-----------------------+
 |    Section                |    §          |    &#167;             |
 +---------------------------+---------------+-----------------------+
 |    Copyright              |    ©          |    &#169;             |
@@ -28,10 +24,6 @@
 +---------------------------+---------------+-----------------------+
 |    Plus/minus             |    ±          |    &#177;             |
 +---------------------------+---------------+-----------------------+
-|    Pilcrow (paragraph)    |    ¶          |    &#182;             |
-+---------------------------+---------------+-----------------------+
-|    Middle dot             |    ·          |    &#183;             |
-+---------------------------+---------------+-----------------------+
 |    Fractional half        |    ½          |    &#188;             |
 +---------------------------+---------------+-----------------------+
 |    En dash                |    –          |    &#8211;            |
@@ -40,23 +32,19 @@
 +---------------------------+---------------+-----------------------+
 |    Single quotes          |    ‘ ’        |    &#8216; &#8217;    |
 +---------------------------+---------------+-----------------------+
-|    Single low quote       |    ‚          |    &#8218;            |
+|    Single dagger          |    †          |    &#8224;            |
 +---------------------------+---------------+-----------------------+
-|    Double low quote       |    „          |    &#8222;            |
+|    Double daggers         |    ‡          |    &#8225;            |
 +---------------------------+---------------+-----------------------+
-|    Single & double daggers|    † ‡        |    &#8224; &#8225;    |
+|    Prime                  |    ′          |    &#8242;            |
 +---------------------------+---------------+-----------------------+
-|    Prime & double prime   |    ′ ″        |    &#8242; &#8243;    |
-+---------------------------+---------------+-----------------------+
-|    Euro sign              |    €          |    &#8364;            |
+|    Double prime           |    ″          |    &#8243;            |
 +---------------------------+---------------+-----------------------+
 |    Trademark              |    ™          |    &#8482;            |
 +---------------------------+---------------+-----------------------+
 |    Almost equal to        |    ≈          |    &#8776;            |
 +---------------------------+---------------+-----------------------+
 |    Not equal to           |    ≠          |    &#8800;            |
-+---------------------------+---------------+-----------------------+
-|    Bullet                 |    •          |    &#8226;            |
 +---------------------------+---------------+-----------------------+
 
 
@@ -82,10 +70,17 @@
 +---------------------------+-------------------------------------+
 
 2.3. The following Latin terms must be written in italics: *in vivo, in vitro, in utero, in situ, via*. 
-All other words/terms formatted by author in italics must be preserved in italics.
+All other words/terms formatted in italics by author must be preserved in italics.
 
 2.4. There must be PDF, HTML, Supplementary Files, Order a Reprint links below the title. Links must be hyperlinked.
 Supplementary Files link is required only when article has supplementary files. Links must be separated from each other by space and pipe (|). See screenshot below for details.
+
+
+.. image:: /_static/title_format.png
+   :alt: Title format
+   :scale: 60%																								
+
+
 
 2.5. The format of the links must be as follows:
 
@@ -100,11 +95,6 @@ Supplementary Files link is required only when article has supplementary files. 
 +---------------------------+-------------------------------------+
 | Link visited color        | #294a80                             |
 +---------------------------+-------------------------------------+
-
-.. image:: /_static/title_format.png
-   :alt: Title format
-   :scale: 60%																								
-
 
 3. Author names
 ---------------
@@ -142,7 +132,10 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
-3.4. Format of author names must be as follows:
+3.4. Author titles and degrees (Dr, Prof, MD, PhD etc) are not allowed.
+
+
+3.5. Format of author names must be as follows:
 
 +---------------------------+-------------------------------------+
 | Characteristics           | Value                               |
@@ -152,6 +145,8 @@ If you see that author name does not comply to these standards, please contact c
 | Font size                 | 12px                                |
 +---------------------------+-------------------------------------+
 | Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font color                | #333                                |
 +---------------------------+-------------------------------------+
 
 
@@ -275,7 +270,7 @@ In case you find several affiliation texts for one text number, please contact c
 	|	1. Deparment and/or division and/or lab and/or school etc.
 	|	2. Institution
 
-	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affiliation text should contain just a company name.
+	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, affiliation text can contain just a company name.
 	
 	.. image:: /_static/html_aff_text_non_academ.png
 		:alt: Affiliation Text Non-Academic
@@ -340,7 +335,7 @@ In case you find several affiliation texts for one text number, please contact c
 +---------------------------+-------------------------------------+
 | Characteristics           | Value                               |
 +===========================+=====================================+
-| Font family               | Courier New    					  |
+| Font family               | Courier New                         |
 +---------------------------+-------------------------------------+
 | Font size                 | 0.85em                              |
 +---------------------------+-------------------------------------+
