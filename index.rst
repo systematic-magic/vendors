@@ -6,3 +6,4 @@ Contents
    :maxdepth: 2
 
    front_matter
+   sections
