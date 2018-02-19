@@ -58,7 +58,7 @@
 2.4. The format of title must be as follows:
 
 +---------------------------+-------------------------------------+
-| Characteristics           | Value.                              |
+| Characteristics           | Value                               |
 +===========================+=====================================+
 | Font family               | Arial, Helvetica, sans-serif        |
 +---------------------------+-------------------------------------+

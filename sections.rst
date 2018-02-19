@@ -14,7 +14,7 @@ If you see any deviations of section naming in articles, please contact authors 
 - All caps, in red:
 
 +---------------------------+-------------------------------------+
-| Characteristics           | Value.                              |
+| Characteristics           | Value                               |
 +===========================+=====================================+
 | Font family               | Arial, Helvetica, sans-serif        |
 +---------------------------+-------------------------------------+
@@ -26,7 +26,7 @@ If you see any deviations of section naming in articles, please contact authors 
 +---------------------------+-------------------------------------+
 | Text decoration           | none                                |
 +---------------------------+-------------------------------------+
-| Text-transform.           | uppercase                           |
+| Text-transform            | uppercase                           |
 +---------------------------+-------------------------------------+
 | Font color                | #ac2b31                             |
 +---------------------------+-------------------------------------+
@@ -34,7 +34,7 @@ If you see any deviations of section naming in articles, please contact authors 
 - Sentence case, in red:
 
 +---------------------------+-------------------------------------+
-| Characteristics           | Value.                              |
+| Characteristics           | Value                               |
 +===========================+=====================================+
 | Font family               | Arial, Helvetica, sans-serif        |
 +---------------------------+-------------------------------------+
@@ -46,7 +46,7 @@ If you see any deviations of section naming in articles, please contact authors 
 +---------------------------+-------------------------------------+
 | Text decoration           | none                                |
 +---------------------------+-------------------------------------+
-| Text-transform.           | none                                |
+| Text-transform            | none                                |
 +---------------------------+-------------------------------------+
 | Font color                | #ac2b31                             |
 +---------------------------+-------------------------------------+
@@ -252,7 +252,7 @@ If you see any deviations of section naming in articles, please contact authors 
 - Sentance case, in black:
 
 +---------------------------+-------------------------------------+
-| Characteristics           | Value.                              |
+| Characteristics           | Value                               |
 +===========================+=====================================+
 | Font family               | Arial, Helvetica, sans-serif        |
 +---------------------------+-------------------------------------+
@@ -264,7 +264,7 @@ If you see any deviations of section naming in articles, please contact authors 
 +---------------------------+-------------------------------------+
 | Text decoration           | none                                |
 +---------------------------+-------------------------------------+
-| Text-transform.           | none                                |
+| Text-transform            | none                                |
 +---------------------------+-------------------------------------+
 | Font color                | #221f22                             |
 +---------------------------+-------------------------------------+
