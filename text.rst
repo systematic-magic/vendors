@@ -36,7 +36,7 @@
 10.3. The following Latin terms must be written in italics: *in vivo, in vitro, in utero, in situ, via, de-nove, de nove*. 
 All other words/terms formatted in italics by author must be preserved in italics.
 
-10.4. Letter "*p*" or "*P*" should be written in italics. There should be a space between *p* (*P*) and mathematical operators. For example:
+10.4. Letter "`p`" or "`P`" should be written in italics. There should be a space between `p` (`P`) and mathematical operators. For example:
 
 | :samplei:`p`:sample:`-value`
 | :samplei:`p` :sample:`value`
