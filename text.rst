@@ -106,6 +106,10 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 10.11. Only curly quotes |curly quoutes| must be used throughout the article. Straight quotes |straight quoutes| are not allowed.
 
+10.12. Registered trademark (®) must be written in superscript throughout the article.
+
+
+
 
 
 
