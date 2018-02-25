@@ -125,19 +125,32 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 11.1. Figure image must have text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
-11.2. If figures have :ref:`panel letters<figure_pannel>`, both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they must be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is NOT allowed.
+11.2. Figures can have :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they must be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is NOT allowed.
 
-11.3. Check the figure description text (figure legend):
-
-	- Check that figure legend has a figure number:
+11.3. Figure legend must have a figure number followed by colon (:):
 
 	|	:sampleb:`Figure N:` (where N is a number of the figure)
 
-	- Check that number is followed by colon (:).
+11.4. The format of title must be as follows:
 
-	- Check that figure number is formatted in bold and coloured in black.
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Line-height               | 14px                                |
++---------------------------+-------------------------------------+
+| Font color                | #221f22                             |
++---------------------------+-------------------------------------+
 
-	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
+
+11.5. If figure number is followed by text, then first sentence of that text must be formatted same way as figure numbe (see above). The rest of the text should be in plain text (see point 10.1)
 
 	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
@@ -154,7 +167,7 @@ All other words/terms formatted in italics by author must be preserved in italic
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by :ref:`panel letter<figure_pannel>` and is formatted in bold.
+11.6. If figure image has :ref:`panel letters<figure_pannel>`, then reference to each panel must be present in figure legend. Such reference is a :ref:`panel letter<figure_pannel>`, which must be formatted in **bold** (same format as in point 11.4.).
 
 	| There are 2 allowed formats for the panel reference (case of letter should match letter case in figure image):
 
