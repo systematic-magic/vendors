@@ -66,8 +66,8 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 10.5. Letters for variables can be preceeded by asterisk (*). In such cases asterisk must be in superscript and there must be NO space between asterisk and variable letter. For example:
 
-| :samplei:`p`:sample:`< 30`
-| :samplei:`p`:sample:`> 10`
+| :samplei:`*p` :sample:`< 30`
+| :samplei:`*p` :sample:`> 10`
 
 19.	No space between superscript Asterisk and text,   	
 Ex.	*  p < 30     change to 	*p < 30
