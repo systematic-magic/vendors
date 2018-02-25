@@ -108,25 +108,24 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 10.12. Registered trademark (®) must be written in superscript throughout the article.
 
+10.13. Ordinal number (1st, 2nd, 3rd etc) suffixes must NOT be written in superscript. Such suffixes must be presented in plain text. For example:
+
+| :sample:`1st`
+| :sample:`2nd`
 
 
+10.14. Article text must NOT be underlined or formatted in bold for emphasis purposes. However, bold is allowed for scientific terms.
 
-
-
-10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
-
-10.4. Check that all website addresses are hyperlinked in article text.
+10.15. All website addresses must be hyperlinked in article text.
 
 .. _figures_check:
 
 11. Figures
 ------------
 
-11.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+11.1. Figure image must have text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
-If image is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
-
-11.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
+11.2. If figures have :ref:`panel letters<figure_pannel>`, both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they must be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is NOT allowed.
 
 11.3. Check the figure description text (figure legend):
 
