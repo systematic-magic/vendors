@@ -24,15 +24,30 @@
 +---------------------------+-------------------------------------+
 | Line-height               | 18px                                |
 +---------------------------+-------------------------------------+
-| Text-align                | uppercase                           |
+| Text-align                | justify                             |
 +---------------------------+-------------------------------------+
-| Font color                | #ac2b31                             |
+| Font color                | #221f22                             |
 +---------------------------+-------------------------------------+
-
-
-
 
 10.2. Check that there is a period (.) at the end of the abstract text.
+
+10.3. The following Latin terms must be written in italics: *in vivo, in vitro, in utero, in situ, via, de-nove, de nove*. 
+All other words/terms formatted in italics by author must be preserved in italics.
+
+10.4. Letter "*p*" or "*P*" should be written in italics. There should be a space between *p* (*P*) and mathematical operators. For example:
+
+| :sampleu:`p`:sample:`-value`
+| :sampleu:`p`:sample:` value`
+| :sampleu:`p`:sample:` > 10`
+| :sampleu:`p`:sample:` < 10`
+| :sampleu:`p`:sample:` = 10`
+| **OR**
+| :sampleu:`P`:sample:`-value`
+| :sampleu:`P`:sample:` value`
+| :sampleu:`P`:sample:` > 10`
+| :sampleu:`P`:sample:` < 10`
+| :sampleu:`P`:sample:` = 10`
+
 
 10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
