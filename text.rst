@@ -90,6 +90,18 @@ All other words/terms formatted in italics by author must be preserved in italic
 | :sample:`€250`
 | :sample:`37°C`
 
+10.8. There must be a minus sign (−) or en-dash (–) instead of hyphen (‐) in number elements and ranges. For example:
+
+| :sample:`-0.9`
+| :sample:`5-7`
+
+10.9. Double dash "- -" must be replaced by en-dash (–). For example:
+
+| "been reported that- -patients" must be corrected to :sample:`"been reported that-patients"`
+
+
+
+
 
 10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
