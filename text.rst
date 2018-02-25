@@ -104,7 +104,7 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 10.10. Spelled out fractions (e.g, one-third) must always be separated by hyphen (‐).
 
-10.11. Only curly quotes (" ") must be used throughout the article. Straight quotes ( |quoutes| ) are not allowed.
+10.11. Only curly quotes |curly quoutes| must be used throughout the article. Straight quotes |straight quoutes| are not allowed.
 
 
 
@@ -376,6 +376,10 @@ If you see that there are gaps in number sequence, then check with corresponding
 13.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
 
 
-.. |quoutes| raw:: html
+.. |straight quoutes| raw:: html
 
-   &#34; &#34;
+   (&#34; &#34;)
+
+.. |curly quoutes| raw:: html
+
+   (&ldquo; &rdquo;)
