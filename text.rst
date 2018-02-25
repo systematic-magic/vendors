@@ -38,17 +38,17 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 10.4. Letter "*p*" or "*P*" should be written in italics. There should be a space between *p* (*P*) and mathematical operators. For example:
 
-| :samplei:`p` :sample:`-value`
-| :samplei:`p` :sample:` value`
-| :samplei:`p` :sample:` > 10`
-| :samplei:`p` :sample:` < 10`
-| :samplei:`p` :sample:` = 10`
+| :samplei:`p`:sample:`-value`
+| :samplei:`p` :sample:`value`
+| :samplei:`p` :sample:`> 10`
+| :samplei:`p` :sample:`< 10`
+| :samplei:`p` :sample:`= 10`
 | **OR**
-| :samplei:`P` :sample:`-value`
-| :samplei:`P` :sample:` value`
-| :samplei:`P` :sample:` > 10`
-| :samplei:`P` :sample:` < 10`
-| :samplei:`P` :sample:` = 10`
+| :samplei:`P`:sample:`-value`
+| :samplei:`P` :sample:`value`
+| :samplei:`P` :sample:`> 10`
+| :samplei:`P` :sample:`< 10`
+| :samplei:`P` :sample:`= 10`
 
 
 10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
