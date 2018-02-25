@@ -76,3 +76,12 @@ body span.sampleiblk {
 	font-weight: 400;
 
 }
+
+body span.sampleup {
+	font-family: monospace;
+	font-size: 16px;
+	vertical-align: super;
+	font-variant: normal;
+	font-weight: 400;
+
+}

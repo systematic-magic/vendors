@@ -36,19 +36,42 @@
 10.3. The following Latin terms must be written in italics: *in vivo, in vitro, in utero, in situ, via, de-nove, de nove*. 
 All other words/terms formatted in italics by author must be preserved in italics.
 
-10.4. Letter "`p`" or "`P`" should be written in italics. There should be a space between `p` (`P`) and mathematical operators. For example:
+
+10.4. All letters for variables ("p", "u", "t", "n", "x", "P", "U", "T", "N", "X" and others) must be must be written in italics. There must be a space between variable letter and mathematical operators. For example:
 
 | :samplei:`p`:sample:`-value`
 | :samplei:`p` :sample:`value`
 | :samplei:`p` :sample:`> 10`
-| :samplei:`p` :sample:`< 10`
 | :samplei:`p` :sample:`= 10`
-| **OR**
+| OR
 | :samplei:`P`:sample:`-value`
 | :samplei:`P` :sample:`value`
 | :samplei:`P` :sample:`> 10`
-| :samplei:`P` :sample:`< 10`
 | :samplei:`P` :sample:`= 10`
+| OR
+| :samplei:`u`:sample:`-test`
+| :samplei:`t`:sample:`-test`
+| :samplei:`u` :sample:`test`
+| :samplei:`t` :sample:`test`
+| OR
+| :samplei:`U`:sample:`-test`
+| :samplei:`T`:sample:`-test`
+| :samplei:`U` :sample:`test`
+| :samplei:`T` :sample:`test`
+| OR
+| :samplei:`n` :sample:`= 1`
+| :samplei:`N` :sample:`= 1`
+| :samplei:`x` :sample:`= 1`
+| :samplei:`X` :sample:`= 1`
+
+10.5. Letters for variables can be preceeded by asterisk (*). In such cases asterisk must be in superscript and there must be NO space between asterisk and variable letter. For example:
+
+| :samplei:`p`:sample:`< 30`
+| :samplei:`p`:sample:`> 10`
+
+19.	No space between superscript Asterisk and text,   	
+Ex.	*  p < 30     change to 	*p < 30
+
 
 
 10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
