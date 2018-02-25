@@ -69,9 +69,26 @@ All other words/terms formatted in italics by author must be preserved in italic
 | :samplei:`*p` :sample:`< 30`
 | :samplei:`*p` :sample:`> 10`
 
-19.	No space between superscript Asterisk and text,   	
-Ex.	*  p < 30     change to 	*p < 30
+10.6. There must be a prime (ʹ - see typography section for HTML code of prime) instead of apostrophe in entries related to genes. For example:
 
+| :sample:`5ʹ-TCTTCCACCAGTCCCAAA-3ʹ`
+| :sample:`5′-GCGTTGTCTGTCCAGTTG-3′`
+| :sample:`5′-GAACTACAACTGGAACTCCTT-3′`
+
+10.7. There must be a space between numeric value and uits. For example:
+
+| :sample:`25 ml`
+| :sample:`1 h`
+| :sample:`50 Gy`
+| :sample:`16 cm`
+| :sample:`9.5 μM`
+
+**Exclusion:**  There must be NO space between numeric value, percentage, currency character or degree:
+
+| :sample:`10%`
+| :sample:`$250`
+| :sample:`€250`
+| :sample:`37°C`
 
 
 10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
