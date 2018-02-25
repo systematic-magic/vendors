@@ -104,7 +104,7 @@ All other words/terms formatted in italics by author must be preserved in italic
 
 10.10. Spelled out fractions (e.g, one-third) must always be separated by hyphen (‐).
 
-10.11. Only curly quotes ( :raw-html:`&ldquo; &rdquo;`) must be used throughout the article. Straight quotes (" ") are not allowed.
+10.11. Only curly quotes ( :raw:`&ldquo; &rdquo;`) must be used throughout the article. Straight quotes (" ") are not allowed.
 
 
 
