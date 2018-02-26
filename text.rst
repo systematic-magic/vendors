@@ -167,7 +167,7 @@ All other words/terms formatted in italics by author must be preserved in italic
    	  	:alt: Figure number
    	  	:scale: 99%
 
-11.6. If figure image has :ref:`panel letters<figure_pannel>`, then reference to each panel must be present in figure legend. Such reference is a :ref:`panel letter<figure_pannel>`, which must be formatted in **bold** (same format as in point 11.4.).
+11.6. If figure image has :ref:`panel letters<figure_pannel>`, then reference to each panel must be present in figure legend. Such reference is composed of a :ref:`panel letter<figure_pannel>`, which must be formatted in **bold** (same format as in point 11.4.).
 
 	| There are 2 allowed formats for the panel reference (case of letter should match letter case in figure image):
 
@@ -218,7 +218,7 @@ All other words/terms formatted in italics by author must be preserved in italic
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+11.4. Figure numbering must NOT have any gaps in sequence. In other words there must be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
 
 At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
 
