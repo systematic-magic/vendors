@@ -410,39 +410,58 @@ If you see that there are gaps in number sequence, then check with corresponding
 +---------------------------+-------------------------------------+
 
 
-12.9. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
+12.9. Table notes (additional information related to table) must be presented below the table in :ref:`plain text<plain_text>`.
 
 .. image:: /_static/html_table_notes.png
 	:alt: Table notes
 	:scale: 99%
 
-12.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
 
-12.5. Check that table numbers. Tables should be numbered continuously, so there are no gaps in the sequence. In other words, there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
+12.10. The format of table text must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | normal                              |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Line height               | 14px                                |
++---------------------------+-------------------------------------+
+| Font color                | #221f22                             |
++---------------------------+-------------------------------------+
+
+
+12.11. Table numbering must NOT have any gaps in sequence. In other words, there must be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
 
 At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK.
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to re-number the tables to eliminate the gaps.
 
-12.6. Check table callouts in the text:
 
-	- Check the format of table callouts:
+12.11. Table callout must contain word "Table", number of the table and (in rare cases) pannel letter.
+
 
 	| :sampleu:`Table 1` (or in rare cases :sampleu:`Table 1A`)
 	|
 	| `Examples:`
 	| :sampleu:`Table 1`
 	| :sampleu:`Table 2A`
-	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is an "s" at the end of "Table" word)
+	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there IS an "s" at the end of "Table" word)
 	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A and 3B are separate tables)
 
 	.. image:: /_static/html_table_callouts.png
 		:alt: Table callouts
 		:scale: 99%
 	|
-	- Check that word "Table" (or "Tables") as well as number (and letter) are hyperlinked.
 
-	- Check that each table has at least 1 callout in the text.
+12.12. Table callouts must be hyperlinked to corresponding tables in the text.
+
+12.13. Each table must have at least 1 callout in the text.
 
 	If one or more callouts are missing in the text, please contact author.
 
@@ -455,31 +474,30 @@ If you see that there are gaps in number sequence, then check with corresponding
 13. Reference Callouts
 ----------------------
 
-13.1. Check reference callouts in the text:
+13.1. Reference callout must contain a number, or a set of numbers or a range of numbers, wrapped in sqare brakets.
 
-	- Check the format of reference callouts:
-
-	| :sample:`[N]` (where N is the order number of the corresponding reference)
+	| :sample:`[`:sampleu:`N`:sample:`]` (where N is the order number of the corresponding reference)
 	|
 	| `Examples:`
-	| :sample:`[1]`
-	| :sample:`[1, 2]`
-	| :sample:`[1–3]`
-	| :sample:`[1, 3–4]`
+	| :sample:`[`:sampleu:`1`:sample:`]`
+	| :sample:`[`:sampleu:`1`:sample:`,` :sampleu:`2`:sample:`]`
+	| :sample:`[`:sampleu:`1`:sample:`–`:sampleu:`3`:sample:`]`
+	| :sample:`[`:sampleu:`1`:sample:`,` :sampleu:`3`:sample:`–`:sampleu:`4`:sample:`]`
 
 	.. image:: /_static/html_callouts.png
 		:alt: Table callouts
 		:scale: 99%
 	|
-	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
 
-	- Check that there is a space after comma (,) and no space before and after en dash (–).
+13.2. Only comma (,) and/or :ref:`en dash<en_dash>` (–) must be used as a separators. No other separators are allowed. 
 
-	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
+13.3. There must be a space after comma (,) and NO space before and after en dash (–).
 
-13.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+13.4. All numbers, set of number or range of numbers must be hyperlinked to courresponding references.
 
-13.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
+13.2. Callout number for each of the references must be present in the text or covered in the range of numbers. E.g. reference 2 is not present in the text, but covered in the range of [1-3]. This is acceptable case.
+
+13.3. There must be NO "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and must be removed.
 
 
 .. |straight quoutes| raw:: html
