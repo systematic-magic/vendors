@@ -326,16 +326,13 @@ If you see that there are gaps in number sequence, then check with corresponding
 +---------------------------+-------------------------------------+
 
 
-
-
-
 .. _table_title_check:
 
-12.2. Check table title:
+12.1. Each table must have a title. Title must be positioned above the table.
 
-	- Check that there is a title above the table.
+12.2. Title must have table number and title text.
 
-	- Check that title has table number:
+12.3. Table number must contain word "Table", number and colon (:):
 
 	| :sampleb:`Table N:` (where N is a number of the table)
 
@@ -343,11 +340,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	| :sampleb:`Table 1A:` (where Table 1A and 1B, 1C etc are separate tables)
 
-	- Check that number is followed by colon (:).
 
-	- Check that table number is formatted in bold and coloured in black.
-
-	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
+12.4. Table number must be followed by title text. Title text must be a single sentence. It is not allowed to have more than 1 sentence as a table title.
 
 	| :sampleb:`Table 2: Table title in a sentence case`
 
@@ -355,11 +349,68 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Table title
    	  	:scale: 99%
 
-	- Check that title does not have period (.) at the end.
+12.5. THere must be NO period (.) or any other punctuation makrs at the end of table title.
 
-	- Check that title is written in :ref:`sentence case<sentence_case>`, formatted in bold and coloured in black.
+12.6. Title must be written in :ref:`sentence case<sentence_case>`.
 
-12.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
+12.7. The format of table title must be as follows:
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 11px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Line height               | 14px                                |
++---------------------------+-------------------------------------+
+| Font color                | #221f22                             |
++---------------------------+-------------------------------------+
+
+12.8. The format of table text must be as follows:
+
+**- Table header**
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Text-align                | center                              |
++---------------------------+-------------------------------------+
+| Font color                | #333                                |
++---------------------------+-------------------------------------+
+
+**- Table text**
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | normal                              |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Text-align                | center                              |
++---------------------------+-------------------------------------+
+| Font color                | #333                                |
++---------------------------+-------------------------------------+
+
+
+12.9. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
 
 .. image:: /_static/html_table_notes.png
 	:alt: Table notes
