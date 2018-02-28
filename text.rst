@@ -236,7 +236,7 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
     |
-	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
+	If figure has panels, then callout can have a letter (letter case must be the same as on figure image):
 
 	| :sampleu:`Fig. 1A` 	
 	| :sampleu:`Fig. 1a`
@@ -252,12 +252,13 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
-	Both formats (Fig. and Figure) are acceptable. However, they should be used consistently: either all callouts have "Fig." or all callouts have "Figure".
+	Both formats (Fig. and Figure) are acceptable. However, they must be used consistently: either all callouts have "Fig." or all callouts have "Figure".
 
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`
 	| :sampleu:`Figure 3C`
-	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is NO "s" at the end of "Figure" word)
+	| :sampleu:`Figures 2` :sample:`and` :sampleu:`3` (note that there IS "s" at the end of "Figure" word)
 	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
 	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
 
@@ -268,9 +269,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 	Same variations are allowed for "Fig."
 
 
-	- Check that words "Figure" or "Fig." as well as number (and letter) are hyperlinked.
+	- "Figure" or "Fig." as well as number (and letter) must be hyperlinked.
 
-	- Check that each figure has at least 1 callout in the text.
+	- Each figure must have at least 1 callout in the text.
 
 	If one or more callouts are missing in the text, please contact author.
 
@@ -286,9 +287,47 @@ If you see that there are gaps in number sequence, then check with corresponding
 12. Tables
 ----------
 
-12.1.  Check that table font size is large enough to read.
+12.1. The format of table text must be as follows:
 
-If table is hard to read, please contact Production team and ask to increase font size.
+**- Table header**
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | bold                                |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Text-align                | center                              |
++---------------------------+-------------------------------------+
+| Font color                | #333                                |
++---------------------------+-------------------------------------+
+
+**- Table text**
+
++---------------------------+-------------------------------------+
+| Characteristics           | Value                               |
++===========================+=====================================+
+| Font family               | Arial, Helvetica, sans-serif        |
++---------------------------+-------------------------------------+
+| Font size                 | 12px                                |
++---------------------------+-------------------------------------+
+| Font weight               | normal                              |
++---------------------------+-------------------------------------+
+| Font style                | normal                              |
++---------------------------+-------------------------------------+
+| Text-align                | center                              |
++---------------------------+-------------------------------------+
+| Font color                | #333                                |
++---------------------------+-------------------------------------+
+
+
+
+
 
 .. _table_title_check:
 
